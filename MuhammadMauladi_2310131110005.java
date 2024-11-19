@@ -24,7 +24,7 @@ class Nik extends Identitas {
     }
 }
 
-class Poly {
+class MuhammadMauladi_2310131110005 {
     public static void main(String[] args) {
         Nik mauladi = new Nik();
         mauladi.pekerja();
